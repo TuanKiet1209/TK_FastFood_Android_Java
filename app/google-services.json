@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889292892829",
+    "project_id": "hkfastfoodandroidjava",
+    "storage_bucket": "hkfastfoodandroidjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889292892829:android:65fb7656b2f27c7081c274",
+        "android_client_info": {
+          "package_name": "com.example.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889292892829-79q1ptv60aaf6cpbkntk1mi9a5lmsc1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoFG3T65DCw_ybP6vmgrWih_6FVfcgGtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889292892829-79q1ptv60aaf6cpbkntk1mi9a5lmsc1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
